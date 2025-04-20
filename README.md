@@ -47,7 +47,7 @@ streamlit run app.py
 
 
 ## 🙌 Acknowledgements
-IMDB Dataset
-TensorFlow / Keras
-Streamlit
-Inspiration: @krishnaik06
+- IMDB Dataset
+- TensorFlow / Keras
+- Streamlit
+- Inspiration: @krishnaik06
