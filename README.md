@@ -42,7 +42,12 @@ pip install -r requirements.txt
 
 # Launch the Streamlit app
 streamlit run app.py
-
+```
 ---
 
 
+## 🙌 Acknowledgements
+IMDB Dataset
+TensorFlow / Keras
+Streamlit
+Inspiration: @krishnaik06
